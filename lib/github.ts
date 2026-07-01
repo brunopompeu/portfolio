@@ -28,7 +28,7 @@ const STATIC_PROJECTS: GithubRepo[] = [
     language: 'TypeScript',
     stargazers_count: 0,
     html_url: 'https://github.com/brunopompeu/gastos-familia',
-    homepage: null,
+    homepage: 'https://gastos-familia-sigma.vercel.app/login',
     updated_at: new Date().toISOString(),
     topics: [],
     fork: false,
